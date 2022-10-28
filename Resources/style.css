@@ -1,0 +1,213 @@
+* {
+  margin: 0px;
+}
+
+.hero {
+  color: white;
+  background-color: #1f2937;
+  height: 800px;
+}
+
+.header div {
+  border: solid 1px;
+  border-color: white;
+  margin: 0px;
+  flex: 1;
+  flex-flow: row;
+}
+
+.header {
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+  padding-top: 25px;
+  margin-right: 275px;
+  margin-left: 275px;
+  padding-left: 30px;
+}
+
+.aboutus {
+  font-size: 25px;
+  padding-right: 50px;
+  margin-left: auto;
+}
+
+.packages {
+  font-size: 25px;
+  padding-right: 50px;
+}
+
+.login {
+  font-size: 25px;
+}
+
+.logo {
+  height: 90px;
+}
+
+.entry{
+  display: flex;
+  margin-left: 300px;
+  margin-right: 20px;
+  padding-top: 200px;
+}
+.entry div{
+ flex-direction: row;
+  
+}
+.text div{
+  padding: 30px;
+}
+
+.head{
+  font-size: 48px;
+  font-weight: 1500;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+}
+
+.par{
+  font-style: italic;
+}
+.sign a{
+  text-decoration: none;
+  color: white;
+  font-weight: 900;
+  font-size: 23px;
+}
+
+.sign {
+  
+    background-color:#1b4799;
+    display: block;
+    height: 15px;
+    line-height: 15px;
+    width: 90px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 30px;
+    margin: 4px 2px;
+    margin-left: 25px;
+    
+}
+
+.img1 {
+  margin-left: 40px;
+  padding-top: 30px;
+}
+
+.img1 img{
+  width: 70%;
+  height: 50%;
+  padding-left: 350px;
+  
+}
+.random{
+  padding-top: 70px;
+  margin-left: 275px;
+  margin-right: 275px;
+  height: 450px;
+}
+.ranhead{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  text-shadow: 5px 5px 8px #474141;
+}
+.ranimages div{
+  flex: 1;
+  flex-direction: row;
+  display: inline-block;
+}
+.ranimages{
+  display: flex;
+  padding-top: 40px;
+}
+.ranim1 img, .ranim2 img, .ranim3 img, .ranim4 img{
+  width: 40%;
+  height: 80%;
+}
+.ranimages div img{
+  margin: 0 auto;
+  display:block;
+}
+.ranim1, .ranim2, .ranim3, .ranim4{
+  text-align: center;
+  font-style: italic;
+  font-size: larger;
+  font-weight: 400;
+}
+.testi{
+  padding-top: 100px;
+  /* margin-left: 275px;
+  margin-right: 275px; */
+  text-align: center;
+  background-color: #e5e7eb;
+  /* height: 200px; */
+  padding-bottom: 100px;
+}
+.texttesti{
+  font-size: 36px;
+  font-style: italic;
+}
+.auth{
+  font-size: 30px;
+  font-weight: bolder;
+  margin-left: 1200px;
+}
+
+.sgnowmain{
+  margin-left: 275px;
+  margin-right: 275px;
+  height: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.sgnowbox{
+  display: flex;
+  background-color: #3882f6;
+  color: white;
+  height: 150px;
+  border-radius: 10px;
+}
+.sgnowbox div{
+  flex-direction: column;
+  flex: 1;
+}
+.sgtext{
+  padding-top: 42px;
+  margin-left: 100px;
+}
+.sgbold{
+  font-size: 30px;
+  font-weight: bolder;
+}
+.sgpara{
+  font-size: 22px;
+  font-weight: 500;
+}
+.sign1 a{
+  text-decoration: none;
+  color: white;
+  font-weight: 900;
+  font-size: 23px;
+  display: inline-block;
+  border: solid 2px;
+  border-color: white;
+  padding: 5px;
+  margin-top: 50px;
+  margin-left: 250px;
+  border-radius: 10px;
+}
+.cpr{
+  background-color: #1f2937;
+  height: 40px;
+  padding: 30px;
+}
+.cprtxt
+{
+  text-align: center;
+  color: white;
+  font-size: 26px;
+}
